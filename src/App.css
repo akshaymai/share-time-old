@@ -1,0 +1,105 @@
+/* input[type="text"]{
+    border-radius: 6px; 
+    width: 286px;
+    background-color: darkgray;
+    margin-bottom: 20px;
+    font-size: 14px;
+    border: 1px solid;
+    height: 27px;
+    padding: 0 10px 0 29px; 
+ } */
+ body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.input-text{
+  border-radius: 6px; 
+  width: 286px;
+  background-color: darkgray;
+  margin-bottom: 20px;
+  font-size: 14px;
+  border: 1px solid;
+  height: 27px;
+  padding: 0 10px 0 29px; 
+}
+ .body-home{
+    background-color: #c5c1c1;
+    text-align: center;
+    padding: 48px;
+  } 
+  .btn-send{
+    margin-left: 247px;
+    border-radius: 4px;
+    width: 69px;
+    margin-bottom: 13px;
+    border: 1px solid;
+    background-color: darkgray;
+    padding: 0px;
+  }
+  .dot {
+    height: 15px;
+    width: 15px;
+    background-color:  black;
+    border-radius: 50%;
+    display: inline-block;
+    margin-bottom: 16px;
+  }
+  .btn-submit{
+    border-radius: 10px;
+    width: 104px;
+    font-size: 22px;
+    margin-bottom: 45px;
+    margin-top: 64px;
+    background: darkgray;
+    border: 1px solid;
+    cursor: pointer;
+  } 
+  .btn-self{
+    margin-top: 23px;
+      font-size: 20px;
+      border-radius: 9px;
+      width: 103px;
+      background: #999595;
+  }
+  
+  .questes{
+    text-indent: 1px;
+    text-align: justify;
+  }
+   
+  .header-top{
+    background-color: lightgray;
+    padding: 33px;
+    text-align: center;
+}
+header h1{
+    letter-spacing: 10px;
+    font-size: 22px;
+    font-weight: bold;
+
+}
+
+.card {
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  background-color:  #979696;
+ 
+  font-family: -webkit-pictograph;
+  border-radius: 17px;
+  width: 259px;
+  margin: auto;
+}
+.error{
+border: 1px solid red;
+}
+
+.checked{
+  margin-top: 21px;
+  font-size: 17px;
+}
